@@ -1,0 +1,1 @@
+2024-10-13 14:10:36 - kmeans - INFO - Namespace(datapath='/workspace/AL', dataset='caltech101', kmeans='Kmeans', load='/workspace/AL/weights', net='densenet')
